@@ -1,0 +1,23 @@
+[
+  {
+    "role": "admin",
+    "_id": "5efb328fe7c967346066afb9",
+    "name": "maraa",
+    "email": "maraa@gmail.com",
+    "password": "maraa1234"
+  },
+  {
+    "role": "operator",
+    "_id": "5efbf08e7945672e402f12c4",
+    "name": "saraa",
+    "email": "saraa@gmail.com",
+    "password": "saraa1234"
+  },
+  {
+    "role": "user",
+    "_id": "5efc0197a56bd431746aa391",
+    "name": "xaraa",
+    "email": "xaraa@gmail.com",
+    "password": "xaraa1234"
+  }
+]
